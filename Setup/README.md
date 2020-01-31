@@ -5,6 +5,9 @@ descargar el archivo de instalacion del siguiente sitio..~ (°¬° ~)
 [Este sitio](https://dotnet.microsoft.com/download/dotnet-core/2.2)
  Es de vital importacia el SDK por wur lo requerimos para programar
 
+ La pagina tiene esta apariencia
+ [](./Imagen/Captura.PNG)
+
 
 ## Instalación y configuración de Visual Studio Code para C#.
 
