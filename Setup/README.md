@@ -6,7 +6,7 @@ descargar el archivo de instalacion del siguiente sitio..~ (°¬° ~)
  Es de vital importacia el SDK por wur lo requerimos para programar
 
  La pagina tiene esta apariencia
- [](./Imagen/Captura.PNG)
+ ![.net core](./Imagen/Captura.PNG)
 
 
 ## Instalación y configuración de Visual Studio Code para C#.
