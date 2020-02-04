@@ -20,12 +20,16 @@ descargar el archivo de instalacion del siguiente sitio..~ (°¬° ~)
 
 Comensaremos con entrar a este sitio web
 [Sitio](https://code.visualstudio.com/)
+
+
 [Visual](./Imagen/Visual1.PNG)
 Luego presionaremos descargar
 
 
 A continuacion se descargara un archivo que procederemos a abrir
 y se vera de esta forma.
+
+
 [Visual2](./Imagen/visual2.PNG)
 Seleccionares ejecutar aceptaremos terminos y condiciones y daremos siguiente,luego veremos la ruta en la que se guardara el archivo e instalaremos despues de dar siguiente 2 ocasiones mas...
 Esperaremos a que se instale y finalizaremos,
