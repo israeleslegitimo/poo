@@ -37,3 +37,16 @@ Esperaremos a que se instale y finalizaremos,
 
 
 ## Instalación de git. conectado a tu cuenta de GitHub y VSC.
+
+comenzares llendo a este sitio 
+[Sitio](https://desktop.github.com/)
+
+![GIT](./Imagen/git.png)
+y presionares descargar !es importantet contar con un dispositivo de 64 bits,y esperaremos a que se descarge
+
+
+lego abriremos el arcivo y presionamos ejecutar 
+![git](./Imagen/git2.png)
+luego de aceptar los terminos y condiciones configuraremos a placer o como mas nos convenga,en nuestro caso es importante dar a la opcion para que se vincule con visual code y continueremos con la instalción
+una vez acabemos podremos abrir un nuevo repositorio que sera clonado desde el sitio oficial de git
+[Oficial](https://github.com/)
