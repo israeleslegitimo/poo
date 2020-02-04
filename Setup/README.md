@@ -22,7 +22,7 @@ Comensaremos con entrar a este sitio web
 [Sitio](https://code.visualstudio.com/)
 
 
-[Visual](./Imagen/Visual1.PNG)
+![Visual](./Imagen/VISUAL1.png)
 Luego presionaremos descargar
 
 
@@ -30,7 +30,7 @@ A continuacion se descargara un archivo que procederemos a abrir
 y se vera de esta forma.
 
 
-[Visual2](./Imagen/visual2.PNG)
+![Visual2](./Imagen/visual2.png)
 Seleccionares ejecutar aceptaremos terminos y condiciones y daremos siguiente,luego veremos la ruta en la que se guardara el archivo e instalaremos despues de dar siguiente 2 ocasiones mas...
 Esperaremos a que se instale y finalizaremos,
 
