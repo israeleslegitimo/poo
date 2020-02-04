@@ -9,6 +9,11 @@ descargar el archivo de instalacion del siguiente sitio..~ (°¬° ~)
  ![.net core](./Imagen/Captura.PNG)
  Luego procedemos a abrir el archivo que descargamos
  
+ Aceptamos los terminos y condiciones y daremos siguiente a todas las opciones.
+
+
+ Esperamos que termine la instalación y finalizamos.
+ 
 
 
 ## Instalación y configuración de Visual Studio Code para C#.
