@@ -6,7 +6,7 @@
 [Actividad 2](https://github.com/israeleslegitimo/Programa-basico-de-peliculas)
 
 
-[Actividad 3](https://github.com/israeleslegitimo/Lista_de/blob/master/Program.cs)
+[Actividad 3](https://github.com/israeleslegitimo/Lista_de)
 
 
 
